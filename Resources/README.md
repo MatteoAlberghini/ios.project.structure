@@ -1,0 +1,2 @@
+## Resources
+Localization, assets, etc.
